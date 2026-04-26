@@ -13,7 +13,7 @@ CORS(app)
 # --- Config ---
 TARGET_BASE = os.getenv("TARGET_BASE", "https://pakistandatabase.com")
 TARGET_PATH = os.getenv("TARGET_PATH", "/databases/sim.php")
-COPYRIGHT_HANDLE = os.getenv("COPYRIGHT_HANDLE", "@never_delete")
+COPYRIGHT_HANDLE = os.getenv("COPYRIGHT_HANDLE", "@sakib01994")
 
 # --- Helpers ---
 def classify_query(value: str):
